@@ -1126,7 +1126,7 @@ class SObject {
 					}
 				}
 			} catch (Exception $e) {
-				var_dump('exception: ', $e);
+				//var_dump('exception: ', $e);
 			}
 		}
 	}
